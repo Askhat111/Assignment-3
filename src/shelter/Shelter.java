@@ -1,4 +1,4 @@
-package shelter; // This must come first
+package shelter; 
 
 import database.DatabaseConnection; // Import database connection utilities
 import java.sql.Connection;
